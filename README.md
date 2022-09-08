@@ -25,6 +25,14 @@ The average math score only dropped by 1% and the average reading score went dow
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/District_Summary_Total.png)
 
 
+
+![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Top_Performers.png)
+
+
+
+![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Bottom_Performers.png)
+
+
     *  Math and reading scores by grade
     *  Scores by school spending
     *  Scores by school size
