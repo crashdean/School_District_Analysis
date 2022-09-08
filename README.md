@@ -20,40 +20,54 @@ The average math score only dropped by 1% and the average reading score went dow
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Distict_summary_Test.png)
 
 
-### District Summary Total
+### Per School Summary Total
 
 
 
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/District_Summary_Total.png)
 
 
+### Top Performing School
+
+
 
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Top_Performers.png)
+
+
+### Bottom Performing Schools
 
 
 
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Bottom_Performers.png)
 
 
+### Scores By Grade Level
+
+
 
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Score_By_Grade.png)
+
+
+### Per School Spending
 
 
 
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Score_Per_School_Spending.png)
 
 
+### Spending Per School Size
+
+
 
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Spending_Per_School_Size.png)
+
+
+### Spending Per District
 
 
 
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Spending_Per_District.png)
 
 
-    *  Math and reading scores by grade
-    *  Scores by school spending
-    *  Scores by school size
-    *  Scores by school type
 
 ## Summary
