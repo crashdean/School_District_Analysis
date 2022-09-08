@@ -9,6 +9,8 @@ to be ran and compared to the unalterd data set.
 
 ## Results
 
+Below are the DataFrames from the District_Summary and the District_Summary_Test.   The results for all categories are almost unchnaged
+
   
 ![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/District_Summary.png)
  
