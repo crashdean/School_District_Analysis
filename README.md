@@ -74,5 +74,5 @@ The average math score only dropped by 1% and the average reading score went dow
 
 
 In summary of the analysis for the above data is as follows.   The highest performing schools were the charter schools.   When the 
-spending per student was analysised, the lower spending per students scored higher in math and reading scores.   This also correlated 
-with the the lower spending for charter schools.   Charter schools also have a lower student population compared to district schools.
+spending per student was analysised, the lower spending per students scored higher in math and reading scores.     Charter schools 
+also have a lower student population compared to district schools.
