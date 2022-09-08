@@ -14,7 +14,7 @@ to be ran and compared to the unalterd data set.
  
  
 
-![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/District_summary_Test.png)
+![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Distict_summary_Test.png)
 
 *  How is the school summary affected?
 *  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
