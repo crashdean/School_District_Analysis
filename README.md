@@ -2,6 +2,11 @@
 
 ## Overview of the School District Analysis
 
+The analysis of this data was to determine if the Thomas High School 9th grade math and reading scores were altered resulting in academic
+dishonesty.  In order to check state-testing standards, the scores will need to be removed form the data set and the analysis will need 
+to be ran and compared to the unalterd data set.   
+
+
 ## Results
 
 *  How is the district summary affected?
