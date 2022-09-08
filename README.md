@@ -10,7 +10,10 @@ to be ran and compared to the unalterd data set.
 ## Results
 
 *  How is the district summary affected?
+*  ![](https://github.com/Resources/District_Summary.png)
+*  
 [District_Summary_Df](Resources/District_Summary.png)
+
 [District_Summary_Df](Resources/Distict_summary_Test.png)
 
 *  How is the school summary affected?
